@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["62887435530429@s.whatsapp.net","62887435530429@s.whatsapp.net"],
+    "ownerName": "Ayangnya Hu Tao",
+    "instagram" : "https://instagram.com/hay.rimuru.tosa?igshid=ZGUzMzM3NWJiOQ==",
+    "gcwa" : "https://chat.whatsapp.com/KXz0xtRQ1TdF88XQWeF2bf",
+    "botName": "Rimuru-Mdོ ",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "xtlSSiYHasyuidL",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": true,
+    "auto_ai_grup": true,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
